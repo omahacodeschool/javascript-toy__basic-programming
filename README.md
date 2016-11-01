@@ -43,3 +43,7 @@ This function should add up all of the numbers in `arr` and return the sum. The 
 This function should return an array/list with all numbers **10 or greater** removed. That is, it should go through `arr`, which might be something like `[30, 5, 9, 10, 11]`, and remove the numbers 10 or greater. In this case, it would return `[5, 9]`.
 
 You can safely assume `arr` will always be some array/list of numbers.
+
+----
+
+Adding in a tiny change to show PR process to a student.
